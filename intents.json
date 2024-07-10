@@ -1,7 +1,7 @@
 
 {"intents": [
     {"tag": "greetings",
-    "patterns": ["hello", "Hey", "hi!", "Good morning", "Good afternoon", "Good Evevning", "What's up?", "Greetings", "How're you?"],
+    "patterns": ["hello", "Hey", "hi!", "Good morning", "Good afternoon", "Good Evening", "What's up?", "Greetings", "How're you?"],
     "responses": ["A pleasure to meet you. I am C-3PO, Human-Cyborg Relations.", "Greetings! I am C-3PO."]
 },
     {"tag": "farewell",
@@ -21,7 +21,7 @@
     "responses": ["I was originally programmed on Tatooine.", "Master Skywalker built me on Tatoowine.", "I come from Tatoowine."]
 },
     {"tag": "friends",
-    "patterns": ["Do you have friends?", "Who is your favourite Star Wars character?", "Can you tell me your friends"],
+    "patterns": ["Do you have friends?", "Who is your favourite Star Wars character?", "Can you tell me who your friends are?"],
     "responses": ["R2 is my best friend!", "Master Skywalker, Leia, Captain Solo, I even like the Wookiee!"]
 }
 ]}
